@@ -2,7 +2,7 @@
 
 A production-grade RAG system that lets you upload documents and ask questions about them. Built with **FastAPI**, **ChromaDB**, **Groq (Llama-3.3-70b)**, and **Ollama local embeddings** with hybrid dense + BM25 retrieval, cross-encoder reranking, and RAGAS-based quality guardrails.
 
-![CI](https://github.com/adigavhane1013/Document-Based-Retrieval-System/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/ManasiKalbhor/RAG/actions/workflows/ci.yml/badge.svg)]
 
 ---
 
@@ -119,8 +119,8 @@ rag_production/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/adigavhane1013/Document-Based-Retrieval-System.git
-cd rag_production
+git clone https://github.com/ManasiKalbhor/RAG.git
+cd RAG
 ```
 
 ### 2. Set up the environment
