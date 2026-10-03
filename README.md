@@ -119,8 +119,8 @@ rag_production/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/ManasiKalbhor/RAG.git
-cd RAG
+git clone https://github.com/adigavhane1013/Document-Based-Retrieval-System.git
+cd Document-Based-Retrieval-System
 ```
 
 ### 2. Set up the environment
